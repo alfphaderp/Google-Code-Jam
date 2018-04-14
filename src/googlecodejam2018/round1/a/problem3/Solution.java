@@ -1,4 +1,4 @@
-package googlecodejam2018.template;
+package googlecodejam2018.round1.a.problem3;
 
 import java.util.Scanner;
 
